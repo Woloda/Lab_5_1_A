@@ -1,0 +1,4 @@
+﻿  UnitTest(Lab_5.1(A)).cpp
+C:\Users\dwtwm\source\repos\Lab_5.1(A)\Lab_5.1(A)\Product.cpp(15,67): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\dwtwm\source\repos\Lab_5.1(A)\Lab_5.1(A)\Product.cpp(74,83): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  UnitTest(Lab_5.1(A)).vcxproj -> C:\Users\dwtwm\source\repos\Lab_5.1(A)\Debug\UnitTest(Lab_5.1(A)).dll
